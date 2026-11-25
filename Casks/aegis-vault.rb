@@ -1,8 +1,8 @@
 cask "aegis-vault" do
   arch arm: "aarch64"
 
-  version "0.2.1"
-  sha256 "de3b44ea312b64bb6558b1c5389cca563a555cfa2c78fa25df35fc4b547d46b3"
+  version "0.2.2"
+  sha256 "0ce7161236647c493fd3925124375d7fe5750719eee2049f845e3da29e165873"
 
   url "https://github.com/DrXendria/Aegis/releases/download/v#{version}/Aegis_#{version}_#{arch}.dmg"
   name "Aegis Vault"
